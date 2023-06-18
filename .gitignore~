@@ -1,0 +1,34 @@
+# Databases...
+*.db 
+*.sql
+
+# Node
+.DS_Store
+node_modules
+/build
+build
+./build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.vercel
+.output
+./index.html
+
+# Go
+/db
+db
+
+# Testing modules and scripts
+*Test*
+
+# binary builds
+
+/build
+build
+public
+*.exe
+.env
+
