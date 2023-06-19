@@ -1,3 +1,5 @@
+# temp files
+*~
 # Databases...
 *.db 
 *.sql
